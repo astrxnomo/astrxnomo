@@ -49,5 +49,5 @@ My workspace
 </p>
 
 <p align='right'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/astrxnomo/astrxnomo"></a>
+  <img src="https://badges.pufler.dev/visits/astrxnomo/astrxnomo">
 </p>
