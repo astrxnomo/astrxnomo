@@ -29,7 +29,7 @@ some languages I've worked with
 </ul>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/felipe-giraldo-635676227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank" alt="linkedin" ></a>
+    <a href="https://www.linkedin.com/in/felipe-giraldo-635676227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="linkedin" ></a>
     <a href="https://twitter.com/Astrxnomo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="https://www.instagram.com/astrxnomo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://co.pinterest.com/astrxnomo/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
