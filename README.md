@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://twitter.com/Astrxnomo">twitter</a>
     <img src="https://media.giphy.com/media/XUvo84Y6H083S/giphy.gif" width=15>
-    <a href="https://www.linkedin.com/in/astrxnomo/">linkedIn</a>
+    <a href="https://www.linkedin.com/in/felipe-giraldo-635676227/">linkedIn</a>
     <img src="https://media.giphy.com/media/XUvo84Y6H083S/giphy.gif" width=15>
     <a href="https://www.instagram.com/astrxnomo">instagram</a>
 </p>
