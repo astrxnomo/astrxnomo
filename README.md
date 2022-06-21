@@ -47,3 +47,7 @@ My workspace
 <p align="center">
     <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=80>
 </p>
+
+<p align='right'>
+  <a href=""><img src="https://badges.pufler.dev/visits/astrxnomo/astrxnomo"></a>
+</p>
