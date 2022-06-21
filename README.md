@@ -2,18 +2,9 @@
     Hello there!
 </h1>
 
-<p align="center">
-    <a href="https://twitter.com/Astrxnomo">twitter</a>
-    <img src="https://media.giphy.com/media/XUvo84Y6H083S/giphy.gif" width=15>
-    <a href="https://www.linkedin.com/in/felipe-giraldo-635676227/">linkedIn</a>
-    <img src="https://media.giphy.com/media/XUvo84Y6H083S/giphy.gif" width=15>
-    <a href="https://www.instagram.com/astrxnomo">instagram</a>
-</p>
-
-
 
 <p align="center">
-    I'm Felipe, some languages I've worked with
+some languages I've worked with
 </p>
 
 <p align="center">
@@ -36,6 +27,12 @@
     <li>🏔️ I love uninhabited places and cats</li>
     <li>✏️ I am a student of Computer Systems Administration at the <a href="https://www.manizales.unal.edu.co/>"> Universidad Nacional de Colombia</li></a>
 </ul>
+
+<p align="center">
+    <a href="https://twitter.com/Astrxnomo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/felipe-giraldo-635676227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="linkedin"></a>
+    <a href="https://www.instagram.com/astrxnomo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
 <p align="center">
     <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=80>
