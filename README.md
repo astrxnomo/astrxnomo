@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/cQSjIBgUC2NbMKEm9q/giphy.gif" width=70>
+    <img src="https://media.giphy.com/media/cQSjIBgUC2NbMKEm9q/giphy.gif" width=50>
 </p>
 
 <h2> About me </h2>
@@ -26,5 +26,5 @@
 </ul>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=100>
+    <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=90>
 </p>
