@@ -1,10 +1,10 @@
 <h1 align="center">
-    Hello there!
+    Hello there 🖤 I'm Felipe
 </h1>
 
 
 <p align="center">
-some languages I've worked with
+Some languages I've worked with
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -13,8 +13,15 @@ some languages I've worked with
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
 </p>
+
 <p align="center">
-      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=astrxnomo&show_icons=true&count_private=true&theme=dark" width="350"></a>
+Workspace
+</p>
+<p align='center'>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20Ryzen_5_3400G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20Radeon_vega_graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
 <p align="center">
