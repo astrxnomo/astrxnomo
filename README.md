@@ -49,5 +49,5 @@ My workspace
 </p>
 
 <p align='right'>
-  <img src="https://img.shields.io/github/watchers/astrxnomo/astrxnomo?color=gree&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=astrxnomo&color=blueviolet">
 </p>
