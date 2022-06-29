@@ -49,5 +49,5 @@ My workspace
 </p>
 
 <p align='right'>
-  <img src="https://badges.pufler.dev/visits/astrxnomo/astrxnomo">
+  <img src="https://img.shields.io/github/watchers/astrxnomo/astrxnomo?color=gree&style=flat-square">
 </p>
