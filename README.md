@@ -15,16 +15,6 @@ Some languages I've worked with
 </p>
 
 <p align="center">
-My workspace
-</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/%20Ryzen_5_3400G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/%20Radeon_vega_graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-</p>
-
-<p align="center">
     <img src="https://media.giphy.com/media/cQSjIBgUC2NbMKEm9q/giphy.gif" width=50>
 </p>
 
@@ -41,7 +31,6 @@ My workspace
     <a href="https://www.instagram.com/astrxnomo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://co.pinterest.com/astrxnomo/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
     <a href="https://open.spotify.com/user/m97ziso6dioz79lf0osybguf2?si=a1756e257bd148f7"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-    <a href="https://www.twitch.tv/astrxnomo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 </p>
 
 <p align="center">
