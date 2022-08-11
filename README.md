@@ -21,8 +21,8 @@ Some languages I've worked with
 <h2> About me </h2>
 <ul>
     <li>💻 Currently working at <a href="https://www.caracoltv.com/">Caracol TV</a></li>
-    <li>🏔️ I love uninhabited places and kittens</li>
-    <li>✏️ I am a student of Computer Systems Administration at the <a href="https://www.manizales.unal.edu.co/"> Universidad Nacional de Colombia</li></a>
+    <li>🏔️ Uninhabited places and kittens</li>
+    <li>✏️ Student of Computer Systems Administration at the <a href="https://www.manizales.unal.edu.co/"> Universidad Nacional de Colombia</li></a>
 </ul>
 
 <p align="center">
