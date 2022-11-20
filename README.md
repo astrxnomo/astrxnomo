@@ -36,7 +36,3 @@ Some languages I've worked with
 <p align="center">
     <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=80>
 </p>
-
-<p align='right'>
-  <img src="https://komarev.com/ghpvc/?username=astrxnomo&color=blueviolet">
-</p>
