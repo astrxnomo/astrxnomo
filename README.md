@@ -31,6 +31,7 @@ Some languages I've worked with
     <a href="https://www.instagram.com/astrxnomo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://co.pinterest.com/astrxnomo/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
     <a href="https://open.spotify.com/user/m97ziso6dioz79lf0osybguf2?si=a1756e257bd148f7"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+    <a href="https://www.tiktok.com/@astrxnomo?_t=8XVSUeSrbFu&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok"></a>
 </p>
 
 <p align="center">
