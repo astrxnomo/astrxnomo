@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hello there 🖤 I'm Felipe
+    Hello there
 </h1>
 
 
@@ -21,7 +21,6 @@ Some languages I've worked with
 <h2> About me </h2>
 <ul>
     <li>💻 Currently working at <a href="https://www.caracoltv.com/">Caracol TV</a></li>
-    <li>🏔️ Uninhabited places and kittens</li>
     <li>✏️ Student of Computer Systems Administration at the <a href="https://www.manizales.unal.edu.co/"> Universidad Nacional de Colombia</li></a>
 </ul>
 
