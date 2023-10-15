@@ -49,5 +49,5 @@
 
 
 <p align="center">
-    <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=80>
+    <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50>
 </p>
