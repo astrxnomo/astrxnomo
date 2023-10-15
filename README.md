@@ -1,4 +1,4 @@
-<h1 align="center">Hi</h2>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50></h2>
 
 ###
 
@@ -48,6 +48,4 @@
 ###
 
 
-<p align="center">
-    <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50>
-</p>
+
