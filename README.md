@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">🌱 My Skills</h2>
+<h3 align="center">🌱 My Skills</h2>
 
 ###
 
