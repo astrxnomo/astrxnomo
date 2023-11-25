@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50></h2>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50></h2>
 
 ###
 
-<p align="left">💼 Currently working at <a href="https://www.caracoltv.com/">Caracol TV</a><br>🎓 Student of Computer Systems Administration at the <a href="https://www.manizales.unal.edu.co/"> Universidad Nacional de Colombia</a></p>
+<p>🎓 Estudiante de Administración de Sistemas Informaticos en la <a href="https://www.manizales.unal.edu.co/"> Universidad Nacional de Colombia</a></p>
 
 ###
 
-<h2 align="center">My Skills</h2>
+<h2 align="center">Habilidades</h2>
 
 ###
 
