@@ -1,9 +1,4 @@
-
-
 <h1 align="center">Hola <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50></h2>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=astrxnomo&color=blueviolet"/> 
-</p>
 
 <p>🎓 Estudiante de Administración de Sistemas Informaticos en la <a href="https://www.manizales.unal.edu.co/"> Universidad Nacional de Colombia</a></p>
 
@@ -39,4 +34,6 @@
   <img height="150" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=astrxnomo&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>
 
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=astrxnomo&color=blueviolet"/> 
+</p>
