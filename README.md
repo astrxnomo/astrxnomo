@@ -1,14 +1,13 @@
-<h1 align="center">Hola <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50></h2>
 
-###
+
+<h1 align="center">Hola <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50></h2>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=astrxnomo&color=blueviolet"/> 
+</p>
 
 <p>🎓 Estudiante de Administración de Sistemas Informaticos en la <a href="https://www.manizales.unal.edu.co/"> Universidad Nacional de Colombia</a></p>
 
-###
-
 <h2 align="center">Habilidades</h2>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -33,15 +32,11 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
 </div>
+<hr>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astrxnomo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astrxnomo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
+<p align="center">
+  <img height="150" width="auto" src ="https://github-readme-stats.vercel.app/api?username=astrxnomo&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="150" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=astrxnomo&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</p>
 
 
