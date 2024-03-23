@@ -13,6 +13,12 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="10" />
+  <!--- <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />--->
+  <!--- <img width="10" />--->
+  <!---<img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />--->
+  <!--- <img width="10" />--->
+  <!---<img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />--->
+  <!---<img width="10" />--->
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
@@ -26,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
 </div>
 <hr>
 
