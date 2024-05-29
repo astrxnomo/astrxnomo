@@ -1,12 +1,8 @@
 <div align='center'>
 
   <div>
-    <h3>&#9451;</h3>
-  </div>
-  
-  <div>
     <samp>
-      <p>Hey, I am a student of computer systems administration at UNAL in colombia.</p>
+      <p>Hey, I am a student of computer systems administration at UNAL in Colombia.</p>
     </samp>
   </div>
     
