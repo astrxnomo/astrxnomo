@@ -38,9 +38,9 @@
 <hr>
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65f4c475275ac16edcb544aa?variant=dark" alt="roadmap.sh" height="120"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65f4c475275ac16edcb544aa?variant=dark" alt="roadmap.sh" height="150"/></a>
 </hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astrxnomo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astrxnomo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 
