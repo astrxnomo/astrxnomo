@@ -37,11 +37,19 @@
 </div>
 <hr>
 
-<p align="center">
-  <img height="150" width="auto" src ="https://github-readme-stats.vercel.app/api?username=astrxnomo&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="150" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=astrxnomo&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
+<div align="">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65f4c475275ac16edcb544aa?variant=dark" alt="roadmap.sh" height="200"/></a>
+</hr>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astrxnomo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="200" alt="languages graph"  />
+</div>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=astrxnomo&color=blueviolet"/> 
-</p>
+
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=astrxnomo.astrxnomo&left_color=blueviolet"  />
+</div>
+
+
+
