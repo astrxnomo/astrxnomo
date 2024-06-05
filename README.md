@@ -26,7 +26,7 @@
   </div>
 
   <samp>
-    <a href="">More about me</a>
+    <a href="https://felipego.com/">More about me</a>
   </samp>
 
 </div>
