@@ -14,6 +14,7 @@
     <img src="https://skillicons.dev/icons?i=java" height="20" alt="java logo"  />
     <img src="https://skillicons.dev/icons?i=php" height="20" alt="php logo"  />
     <img src="https://skillicons.dev/icons?i=react" height="20" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo"  />
     <img src="https://skillicons.dev/icons?i=laravel" height="20" alt="laravel logo"  />
     <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
     <img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="bootstrap logo"  />
