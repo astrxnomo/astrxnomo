@@ -11,8 +11,6 @@
     <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
     <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
     <img src="https://skillicons.dev/icons?i=py" height="20" alt="python logo"  />
-    <img src="https://skillicons.dev/icons?i=java" height="20" alt="java logo"  />
-    <img src="https://skillicons.dev/icons?i=php" height="20" alt="php logo"  />
     <img src="https://skillicons.dev/icons?i=react" height="20" alt="react logo"  />
     <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo"  />
     <img src="https://skillicons.dev/icons?i=laravel" height="20" alt="laravel logo"  />
