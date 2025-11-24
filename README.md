@@ -15,13 +15,15 @@
     <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo"  />
     <img src="https://skillicons.dev/icons?i=laravel" height="20" alt="laravel logo"  />
     <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="bootstrap logo"  />
-    <img src="https://skillicons.dev/icons?i=git" height="20" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=postgres" height="20" alt="postgresql logo"  />
     <img src="https://skillicons.dev/icons?i=linux" height="20" alt="linux logo"  />
     <img src="https://skillicons.dev/icons?i=bash" height="20" alt="bash logo"  />
     <img src="https://skillicons.dev/icons?i=aws" height="20" alt="amazonwebservices logo"  />
-    <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql logo"  />
-<!--     <img src="https://skillicons.dev/icons?i=postgres" height="20" alt="postgresql logo"  /> -->
+    <img src="https://skillicons.dev/icons?i=supabase" height="20" alt="supabase logo"  />
+    <img src="https://skillicons.dev/icons?i=appwrite" height="20" alt="appwrite logo"  />
+    <img src="https://skillicons.dev/icons?i=git" height="20" alt="git logo"  />
+    
   </div>
 
   <samp>
