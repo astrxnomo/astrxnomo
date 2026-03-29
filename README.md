@@ -23,6 +23,7 @@
     <img src="https://skillicons.dev/icons?i=supabase" height="20" alt="supabase logo"  />
     <img src="https://skillicons.dev/icons?i=appwrite" height="20" alt="appwrite logo"  />
     <img src="https://skillicons.dev/icons?i=git" height="20" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=docker" height="20" alt="docker logo"  />
     
   </div>
 
